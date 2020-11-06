@@ -1,0 +1,16 @@
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\bin\Debug\netcoreapp3.0\GeometryGenerator.deps.json
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\bin\Debug\netcoreapp3.0\GeometryGenerator.dll
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\bin\Debug\netcoreapp3.0\GeometryGenerator.pdb
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator_MarkupCompile.cache
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator_MarkupCompile.lref
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\Themes\Generic.baml
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.g.resources
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.AssemblyInfoInputs.cache
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.AssemblyInfo.cs
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.dll
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.pdb
+C:\Users\Arcaino\source\repos\NuGet\netcoreapp3.0\GeometryGenerator.deps.json
+C:\Users\Arcaino\source\repos\NuGet\netcoreapp3.0\GeometryGenerator.dll
+C:\Users\Arcaino\source\repos\NuGet\netcoreapp3.0\GeometryGenerator.pdb
+C:\Users\Arcaino\source\repos\GeometryGenerator\GeometryGenerator\obj\Debug\netcoreapp3.0\GeometryGenerator.csprojAssemblyReference.cache
